@@ -1,24 +1,8 @@
-# desafio-vue3
+# Mapeamento de clique
 
-## Project setup
-```
-yarn install
-```
+Aplicação que faz o mapeamento do clique do usuário e exibe um elemento no ponto da tela que foi efetuado o clique.<br>
+E possível desfazer a ação clicando em ctrl+z e refazer clicando em ctrl+y, conforme é mostrado no video.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+https://user-images.githubusercontent.com/113551661/209019736-b9ad201b-d9fc-4945-b6c9-df3979959485.mp4
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projeto foi desenvolvido com Vue 3
